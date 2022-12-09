@@ -1,4 +1,6 @@
-# terraform-azure-vnet
+# Azure VNET Terraform Module
+
+## Usage
 
 ```
 resource "azurerm_virtual_network" "wordpress" {
